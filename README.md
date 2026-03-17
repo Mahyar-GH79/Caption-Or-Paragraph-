@@ -1,6 +1,6 @@
 # Caption or Paragraph? Exploring Image Description Strategies for Vision-Language Models
 
-This repository contains the code for fine-tuning and evaluating vision-language models on image captioning and paragraph-level description tasks. The project investigates whether single captions or detailed paragraphs produce better image-text representations, using models like Qwen and LLaMA on datasets including COCO, Flickr30K, CC3M, and ShareGPT4V. You can find the complete report ![here](Caption_Or_Paragraph_Report.pdf).
+This repository contains the code for fine-tuning and evaluating vision-language models on image captioning and paragraph-level description tasks. The project investigates whether single captions or detailed paragraphs produce better image-text representations, using models like Qwen and LLaMA on datasets including COCO, Flickr30K, CC3M, and ShareGPT4V. You can find the complete report [here](Caption_Or_Paragraph_Report.pdf).
 
 ## Project Structure
 
