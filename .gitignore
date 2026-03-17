@@ -1,0 +1,14 @@
+# Virtual environment
+env/
+
+# Checkpoints (model weights)
+checkpoints/
+checkpoints_combined/
+checkpoints_multipositive/
+checkpoints_onecap/
+checkpoints_paragraphs/
+
+# Data and embeddings
+Dataset/
+data/
+embeddings/
